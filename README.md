@@ -25,7 +25,7 @@ Good luck! 🚀
 
 The cinema has one auditorium and is showing a single film at 19:00 tonight. Assume the URL sometimes delays or returns 404. Live seat availability is exposed via our "flaky" upstream API:
 
-https://raw.githubusercontent.com/DataArtInc/interview-technical-exercise/main/seatmap-example.json
+https://raw.githubusercontent.com/dataart-interview/interview-technical-exercise-dotnet/main/seatmap-example.json
 
 The response looks like this:
 
