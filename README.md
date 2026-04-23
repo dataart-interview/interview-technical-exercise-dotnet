@@ -10,7 +10,7 @@ Welcome to the DataArt interview tech challenge. You'll join us for a 90-minute 
 
 ### Traits we love to see:
 
-- idiomatic C#/.NET 8
+- idiomatic C#/.NET 10
 - thoughtful API design
 - automated tests (TDD or test‑after – your choice)
 - graceful failure‑handling
@@ -95,7 +95,7 @@ If you complete the core requirements early, feel free to tackle any of these ad
 
 ## Notes & Constraints
 
-- Target .NET 8 (or latest LTS). Minimal APIs, MVC controllers or both — your choice. If neccessary, you can also clone a basic API from here: [Link](./NET8/)
+- Target .NET 10 (or latest LTS). Minimal APIs, MVC controllers or both — your choice. If neccessary, you can also clone a basic API from here: [Link](./NET10/)
 - Hard-code the feed URL, but keep the design flexible for future endpoint replacement.
 - No authentication logic required.
 - Prioritise readability, separation of concerns and meaningful tests — 100% coverage is not required.
